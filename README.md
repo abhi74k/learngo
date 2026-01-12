@@ -1,0 +1,2 @@
+# learngo
+Go learning project
